@@ -12,10 +12,10 @@ az3      = "us-west-2c"
 
 vpc_cidr_block  = "172.34.0.0/16"
 
-public_cidr1    = "172.34.0.1/24"
-public_cidr2    = "172.34.0.2/24"
-public_cidr3    = "172.34.0.3/24"
+public_cidr1    = "172.34.1.0/24"
+public_cidr2    = "172.34.2.0/24"
+public_cidr3    = "172.34.3.0/24"
 
-private_cidr1   = "172.34.0.10/24"
-private_cidr2   = "172.34.0.11/24"
-private_cidr3   = "172.34.0.12/24"
+private_cidr1   = "172.34.10.0/24"
+private_cidr2   = "172.34.11.0/24"
+private_cidr3   = "172.34.12.0/24"
